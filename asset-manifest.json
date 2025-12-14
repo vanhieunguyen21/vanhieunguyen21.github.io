@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5a3dab08.css",
-    "main.js": "/static/js/main.da709fc4.js",
+    "main.js": "/static/js/main.ce0e55f7.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -12,7 +12,7 @@
     "static/media/Nutrigen-release.apk": "/static/media/Nutrigen-release.1ee9be902f84563860e5.apk",
     "static/media/Bluen-release.apk": "/static/media/Bluen-release.41d91cd76bc2383fd4f7.apk",
     "static/media/SheCalendar-release.apk": "/static/media/SheCalendar-release.76793a1f377945f9da65.apk",
-    "static/media/resume.pdf": "/static/media/resume.ff8a5925027b42d70f56.pdf",
+    "static/media/resume.pdf": "/static/media/resume.09ec5333838c64771381.pdf",
     "static/media/DramaPop_1.jpg": "/static/media/DramaPop_1.d22b9815e29590766881.jpg",
     "static/media/QRScanner_2.jpg": "/static/media/QRScanner_2.95938cc359f1691d22c2.jpg",
     "static/media/Bluen_1.jpg": "/static/media/Bluen_1.213ef73fa0b96f8c5e6e.jpg",
@@ -134,7 +134,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.5a3dab08.css.map": "/static/css/main.5a3dab08.css.map",
-    "main.da709fc4.js.map": "/static/js/main.da709fc4.js.map",
+    "main.ce0e55f7.js.map": "/static/js/main.ce0e55f7.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -142,6 +142,6 @@
   },
   "entrypoints": [
     "static/css/main.5a3dab08.css",
-    "static/js/main.da709fc4.js"
+    "static/js/main.ce0e55f7.js"
   ]
 }
